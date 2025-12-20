@@ -1,3 +1,4 @@
+print("🧪 测试：脚本开始运行！")
 # -*- coding: utf8 -*-
 import math
 import traceback
